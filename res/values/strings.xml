@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">盲人</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="img_info">img</string>
+	<string name="jinji">紧急求助</string>
+	<string name="yuyin">语音助手</string>
+	<string name="juli">距离</string>
+	<string name="wendu">温度</string>
+	<string name="shidu">湿度</string>
+	<string name="bangzhu">帮助</string>
+	<string name="title">输入帮助的电话</string>
+	<string name="hint">110</string>
+	<string name="huoqu">获取</string>
+	<string name="lianjie">蓝牙</string>
+	<string name="wuxian">无线</string>
+    <string name="map">地图</string>
+</resources>
